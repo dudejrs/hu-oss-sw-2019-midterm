@@ -9,4 +9,4 @@ Midterm
  * [ ] Add self-introductory file about myself
  * [ ] Write some wiki page about this repository
  * [ ] Open, refer, close issues, milestones and projects
- * [ ] Branch, develop, rebase codes
+ * [ ] Branch, develop, rebase codes		
