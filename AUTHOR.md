@@ -8,4 +8,4 @@ Just contact me.
 
  * Opnesource, frontend, javascript
  * java, python, c
- * gladios(open source project in my school lecture)
+ * gladios(https://github.com/inureyes/gradios)
